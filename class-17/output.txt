@@ -1,0 +1,14 @@
+Ramanujan Ramanujan
+32 32
+M M
+1729 1729
+name = Ramanujan
+age = 32
+gender = M
+credits = 1729
+
+name = Ramanujan
+age = 32
+gender = M
+credits = 1729
+
